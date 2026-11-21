@@ -3,8 +3,8 @@
 class MacBelt < Formula
   desc "Menu bar utility belt: awake, clipboard, mic mute, drop shelf, text grab"
   homepage "https://github.com/Animesh0764/mac-belt"
-  url "https://github.com/Animesh0764/mac-belt/archive/refs/tags/v0.1.1.tar.gz"
-  sha256 "3c9f916fe983dbd12f486087a5eb0d09008d6f0cb544ce2acf964b9b8e523feb"
+  url "https://github.com/Animesh0764/mac-belt/archive/refs/tags/v0.1.2.tar.gz"
+  sha256 "11b1354b353a8e730fcd020d6625235e911a63ba462f409c4d6d56caec33bae7"
   license "MIT"
   head "https://github.com/Animesh0764/mac-belt.git", branch: "main"
 
